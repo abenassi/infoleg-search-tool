@@ -1,0 +1,2 @@
+hours,task,notes
+1,Small POC,Chat with Code Interpreter to analyze some database from the internet and explore ideas of what to do with it. Come up with the idea of a small search tool against the database and built a function first POC in a jupyter notebook and publish it in a repo.
