@@ -12,3 +12,10 @@ Will log the hours and the tasks invested in this, and try to keep it easy to re
 ## Data
 
 * [Infoleg](http://datos.jus.gob.ar/dataset/d9a963ea-8b1d-4ca3-9dd9-07a4773e8c23/resource/bf0ec116-ad4e-4572-a476-e57167a84403/download/base-infoleg-normativa-nacional.zip)
+
+## How to run
+
+* Create an environment
+* `pip install -r requirements.txt`
+* Open a jupyter notebooks environment
+* Run all!
